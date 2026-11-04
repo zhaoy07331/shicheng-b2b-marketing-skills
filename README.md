@@ -4,18 +4,14 @@
 
 本仓库只保存专业知识、诊断与审校规则；不包含脚本、账号配置、自动发布、投放操作或业务系统写入能力。
 
-## 首批8个Skill
+## 当前维护的两个官网Skill
 
 | Skill | 用途 |
 | --- | --- |
 | [网站GEO友好性优化](skills/website-geo-review/SKILL.md) | 五个方向检查官网与证据缺口 |
-| [B2B客户画像与问题地图](skills/b2b-customer-profile/SKILL.md) | 区分ICP、角色、受众与行为 |
-| [B2B客户案例证据审校](skills/b2b-case-evidence/SKILL.md) | 检查案例证据、归因与公开边界 |
-| [SEM意图与页面连续性](skills/sem-intent-alignment/SKILL.md) | 检查搜索、广告、页面与线索断点 |
-| [A/B测试方案审校](skills/b2b-experiment-review/SKILL.md) | 核对假设、分流、指标和样本 |
-| [营销指标口径设计](skills/marketing-metric-definition/SKILL.md) | 建立可复核指标字典 |
-| [线索交接规则审校](skills/lead-handoff-sla/SKILL.md) | 校准生命周期、责任和退回反馈 |
-| [知识到公开内容的审校](skills/knowledge-content-review/SKILL.md) | 检查来源、人物归属、状态与公开边界 |
+| [官网文章发布自检](skills/website-article-release-review/SKILL.md) | 核对关键词、内链、作者、Schema、Sitemap与真实上线回执 |
+
+两个Skill都带“官网”标签。网站GEO友好性优化用于网站诊断，官网文章发布自检用于发布前后审校；自检规则来自事橙实际官网建设、发布与复查工作。其他首批条目已从当前目录移出，历史版本保留在Git记录与v1.0.0中。
 
 ## 使用
 
@@ -29,7 +25,7 @@
 
 ## 版本与维护
 
-本次规则版本为1.0.0。每项Skill在文件中保留版本与更新时间；平台相关事实需使用时核对官方资料。变更通过Git记录，发布版本通过GitHub Release冻结。仓库是Skill文本的公开版本来源；官网引用同版文件，不创建另一个不一致的规则分支。
+当前目录版本为1.1.0，其中网站GEO友好性优化为1.0.1，官网文章发布自检为1.0.0。每项Skill保留版本与更新时间；平台相关事实需使用时核对官方资料。变更通过Git记录，发布版本通过GitHub Release冻结。仓库是Skill文本的公开版本来源；官网引用同版文件，不创建另一个不一致的规则分支。
 
 欢迎通过Issue提出缺失条件、错误或适用性反馈。请勿提交客户原件、个人信息、密钥、账号或未经许可的数据。专业规则改进需同时核对来源文章与目录关联。
 

@@ -2,12 +2,15 @@
 name: website-geo-review
 description: 从技术访问、网站架构、答案内容、可信信息和持续运营五个方向，判断官网缺口与优化优先级。
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
   author: 事橙营销
   license: MIT
+  tags: "官网"
 ---
 
 # 网站GEO友好性优化
+
+标签：官网
 
 从技术访问、网站架构、答案内容、可信信息和持续运营五个方向，判断官网缺口与优化优先级。
 
@@ -37,7 +40,7 @@ metadata:
 
 ## 来源与版本
 
-版本 1.0.0；更新于 2026-11-04。规则由事橙营销公开文章提炼，适用条件以当前资料为准。
+版本 1.0.1；更新于 2026-11-04。规则由事橙营销公开文章提炼，适用条件以当前资料为准。
 
 - https://www.shichengup.com/insights/blog/geo-friendly-website-optimization/
 - https://www.shichengup.com/insights/blog/ai-readable-website-facts-pages-schema/
