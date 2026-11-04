@@ -37,13 +37,13 @@
   },
   {
     "id": "website-article-release-review",
-    "name": "官网文章发布协同和自检",
+    "name": "官网文章发布自检",
     "category": "官网",
     "tags": [
       "官网"
     ],
     "summary": "检查文章的搜索意图、事实依据、内链与作者、结构化数据和上线回执，区分已完成、待处理和未验证。",
-    "version": "1.0.1",
+    "version": "1.0.0",
     "updatedAt": "2026-11-04",
     "agentRoles": [
       "官网运营",
