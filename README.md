@@ -25,7 +25,7 @@
 
 ## 与官网、文章和Agent的关系
 
-官网文章解释背景和方法，Skill保留可复用专业规则，Agent按照任务选择Skill。`catalog.json`保存稳定ID、版本、来源文章和可服务的工作角色。官网的Skill-Store频道与新指南正在准备发布，网站URL将在正式上线后可访问；GitHub中的SKILL.md现在可以独立使用。
+官网文章解释背景和方法，Skill保留可复用专业规则，Agent按照任务选择Skill。`catalog.json`保存稳定ID、版本、来源文章和可服务的工作角色。[官网Skill-Store](https://www.shichengup.com/skill-store/)与[官网GEO-Friendly指南](https://www.shichengup.com/insights/blog/geo-friendly-website-optimization/)已于2026年11月4日上线；GitHub中的SKILL.md也可以独立使用。
 
 ## 版本与维护
 
